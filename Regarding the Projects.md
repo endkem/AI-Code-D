@@ -1,5 +1,6 @@
 # AI-Code-D
 
+
 **Machine Learning Project covers **
 
   Python Overview
@@ -36,4 +37,5 @@
   Grid Search and Randomized search CV
   
   
-  
+  ***** NLP****
+  ****** Computer Vision ****
