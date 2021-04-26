@@ -18,7 +18,7 @@
   
  **Ensemble Technique Project Covers** 
   Decision Trees
-  Introduction to Ensemble Techniques
+  Different Ensemble Techniques
   Bagging and Random Forest
   Hands-on with Bagging and Random Forest
   Boosting algorithms - AdaBoost, Gradient Boosting and XGBoost
