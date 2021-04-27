@@ -37,6 +37,16 @@
   Hyper Parameters and Tuning.
   Grid Search and Randomized search CV
   
-  
+  Unsupervised Learning 
+  K Means clustering
+  Clustering
+  Distance measures – Manhattan, Euclidean, Chebyshev, Minkowski
+  Types of clustering – Connectivity based &amp; Centroid based
+  Distance calculations
+  Cluster definition
+  Lloyd’s algorithm
+  Hierarchical clustering
+  Connectivity based clustering
+  Dendrogram
   ***** NLP****
   ****** Computer Vision ****
